@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main(void) {
+
+//loop -> we use loop when we want to run certain things for certain no of times
+//eg ->like print hello world for 1000s times for that it will create pblm if used printf() 1000s times
+
+int i=0;
+while(i<1000)//till what condition you want to run the loop.
+{
+	printf("hello world");// while loop we use when we want to run loop until the condition become false.
+	i++;
+}
+
+
+
+//while loop also known as lopp control variable.
+
+
+
+
+
+
+	return 0;
+}
