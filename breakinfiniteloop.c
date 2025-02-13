@@ -6,7 +6,7 @@ int main(void) {
 
 //for breaking infinite loop
 
-
+//break responds to loop which contains it .
 
 int i=1;
 
