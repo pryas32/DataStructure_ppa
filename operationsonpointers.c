@@ -22,23 +22,28 @@ int main()
     
     int arr[]={1,2,3,4};
     
-    
-    
-    
-    
     int *p=arr; 
-    
-    
+  
     int *p1=&arr[3];
-    
-    
-    
     int d1=(p1-p);
-    
-    
-    
-    
     printf("%d",d1);
+    
+  // we can compare two pointers of same data type.
+  
+  
+  if(p1>p){
+    printf("p1 is greater than p");
+  }
+  else{
+    printf("p is greater than p1");
+  }
+  
+    
+    
+    
+    
+    
+    
     
     
     
