@@ -43,6 +43,46 @@ O(17)/17
 O(1)//amortized time complexity.
 
 
+//pass by value as well as pass by refrence
+
+
+in pass by value the changes doesnt hget reflected 
+//in pass by referecnce the changes get refleccted
+
+
+
+void passbyrefrence(int arr[],int n)
+{
+
+arr[]->denotes pointer.
+
+}
+
+
+
+int main(){
+passbyrefrence(arr,10);//passing addresss here.
+
+}
+
+
+
+//or pass by refrence
+
+void printf(int *p){
+}
+
+
+int main(){
+
+int x=10;
+print(&x);
+}
+
+
+in case of TLE use pass by refrence instead of pass byvalue as in pass by value we need to create new array .which may leads to TLE
+
+
 
 
 
