@@ -1,0 +1,67 @@
+/******************************************************************************
+
+                            Online C Compiler.
+                Code, Compile, Run and Debug C program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
+#include <stdio.h>
+
+int main()
+{
+   Array-> collection of element of same data type .
+   contiguous memory alocation
+   fixed size 
+   
+   Time Complexity->O(1)//insertion and deletion
+   
+   //dynaic size array 
+   where as for List<Integer> or vector<Integer>
+   they have all properties ezcept fixed size.
+   
+   they have amortized time complexity as O(1);
+   
+   
+   default size of them is 8 
+   
+   if inserting 9th element 
+   then a new vector created double its size copying old element into new vector then 
+   adding 9th eleemnt
+   
+   
+   v.push_back() // for adding element
+   
+   AVG Time complexity=o(8)()for pushing 8 element in old vector+O(8)(copying old element )
+in new one ) + adding 9thr eleemntO(1)/no of operations
+
+
+
+O(17)/17
+
+
+O(1)//amortized time complexity.
+
+
+
+
+
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+    return 0;
+}
