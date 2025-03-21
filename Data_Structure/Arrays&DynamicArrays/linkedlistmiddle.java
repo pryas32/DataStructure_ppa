@@ -8,7 +8,7 @@ import java.lang.*;
 import java.io.*;
 
 //isertion at particular index ,deletion at particular index etc ,searching at particular index
-
+//consist of varpous fuunctions like delete nth node from end etc.
 /* Name of the class has to be "Main" only if the class is public. */
  class node{
 	Integer data;
@@ -260,6 +260,47 @@ private node tail=null;
 		
 		
 		
+		public node deletefromend(int n){
+			
+			
+			
+			node remainder=head;
+			node left=head;
+			
+			int count=0;
+			
+			
+			while(count<=n)
+			{
+				remainder=remainder.next;
+				count++;
+			}
+			
+			
+			
+			
+			while(remainder!=null && remainder.next!=null)
+			{
+				remainder=remainder.next;
+				left=left.next;
+			}
+			
+			if(remainder==null)
+			{
+				head=left.next;
+			}
+			else
+			{
+			left.next=left.next.next;
+			}
+			
+			
+			return head;
+			
+			
+		}
+		
+		
 		
 		
 		
@@ -280,8 +321,15 @@ public static void main(String args[])
 	
 		l.insert(314);
 	
-	node left=l.middle();
-	System.out.println(left.data);
+		l.display();
+			 System.out.println("____________________________________");
+node newhead=l.deletefromend(0);
+	
+	
+	l.display();
+	
+	// node left=l.middle();
+	// System.out.println(left.data);
 	 System.out.println("____________________________________");
 // node  left=l.delete(123);
 //   System.out.println(l.search(12));
@@ -319,7 +367,3 @@ public static void main(String args[])
 	
 	
 }
-
-
-
-
