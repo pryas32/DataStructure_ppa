@@ -156,7 +156,7 @@ private node tail=null;
 		else {
 			int count=1;
 			
-			node *temp=head;
+			node temp=head;
 			
 			while(temp!=null && count<index)
 			{
@@ -164,10 +164,18 @@ private node tail=null;
 				count++;
 			}
 			
-			if(count>=index)
+			if(count==index && temp!=null)
 			{
 				node tem=new node(x);
-				temp.next=temp;
+				tem.next=temp.next;
+				temp.next=tem;
+				return head;
+			}
+			else if(temp==null && count==index)
+			{
+					node tem=new node(x);
+				temp=tem;
+				temp.next=tem.next;
 				return head;
 			}
 			else{
@@ -199,7 +207,7 @@ private node tail=null;
 		else {
 			int count=1;
 			
-			node *temp=head;
+			node temp=head;
 			
 			while(temp!=null && count<index)
 			{
@@ -207,33 +215,20 @@ private node tail=null;
 				count++;
 			}
 			
-			if(count>=index)
+			if(count==index && temp.next!=null)
 			{
 			temp.next=temp.next.next;
 				return head;
 			}
-			else{
+			else {
 				return head;
+			}
 			}
 			
 			
 			
 		}
 		
-		
-		
-		
-		
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 public static void main(String args[])
 {
@@ -245,13 +240,13 @@ public static void main(String args[])
 	l.insert(56);
 node  left=l.delete(123);
    System.out.println(l.search(12));
-	l.insertindex(2);
+	l.insertindex(2,1);
 	
 	
 	l.display();
 	
-	
-	l.deleteindex(1);
+	System.out.println("____________________________________");
+	l.deleteindex(6);
 	
 		l.display();
 	
@@ -279,7 +274,6 @@ node  left=l.delete(123);
 	
 	
 }
-
 
 
 
