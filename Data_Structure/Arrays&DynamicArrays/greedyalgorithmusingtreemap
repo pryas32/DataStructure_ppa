@@ -1,0 +1,42 @@
+import java.util.*;
+
+class Main {
+    public static void main(String[] args) {
+        int start[] = {10, 15, 20, 19, 28, 26};
+        int end[] = {25, 27, 30, 40, 45, 49};
+
+      
+        Vector<AbstractMap.SimpleEntry<Integer, Integer>> v = new Vector<>();
+
+        for (int i = 0; i < start.length; i++) {
+            v.add(new AbstractMap.SimpleEntry<>(start[i], end[i]));
+        }
+
+        int ans = 0;
+        int k = 3;
+
+     
+        TreeMap<Integer, Integer> m = new TreeMap<>();
+
+   
+        m.put(0, k);
+
+        for (int i = 0; i < v.size(); i++) {
+            Integer it = m.higherKey(v.get(i).getKey());
+
+            if (it != null) {
+                it = m.lowerKey(it);
+                if (it != null) {
+                    m.put(it, m.get(it) - 1);
+                    if (m.get(it) == 0) {
+                        m.remove(it);
+                    }
+                    m.put(v.get(i).getValue(), m.getOrDefault(v.get(i).getValue(), 0) + 1);
+                    ans++;
+                }
+            }
+        }
+
+        System.out.println(ans);
+    }
+}
