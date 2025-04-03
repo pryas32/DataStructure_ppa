@@ -1,0 +1,73 @@
+maximum no of workers which can be assigned meetings 
+
+import java.util.*;
+
+class Main {
+
+public static void main(String[] args) {
+
+int start[] = {10, 15, 20, 19, 28, 26};
+
+int end[] = {25, 27, 30, 40, 45, 49};
+
+Vector<AbstractMap.SimpleEntry<Integer, Integer>> v = new Vector<>();
+
+for (int i = 0; i < start.length; i++) {
+
+v.add(new AbstractMap.SimpleEntry<>(start[i], end[i]));
+
+}
+
+int k = 3; 
+
+Vector<Integer> v1 = new Vector<>(Collections.nCopies(k, 0)); 
+
+int ans = 0;
+
+for (int i = 0; i < start.length; i++) {
+
+int maximum = Integer.MIN_VALUE, index = -1;
+
+
+
+for (int j = 0; j < k; j++) {
+
+if (v1.get(j) <= v.get(i).getKey()) {
+
+if (v1.get(j) >= maximum) {
+
+maximum = v1.get(j);
+
+index = j;
+
+}
+
+}
+
+}
+
+if (index != -1) {
+
+v1.set(index, v.get(i).getValue());
+
+ans++;
+
+}
+
+}
+
+System.out.print(ans);
+
+for(int i=0;i<v1.size();i++)
+
+{
+
+System.out.println(v1.get(i));
+
+}
+
+}
+
+
+TC:O(N*K)
+}
