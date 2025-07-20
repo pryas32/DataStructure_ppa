@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-
+//BigInteger can store very large value greater than long but totally depend on memory of th computer
 public class bigntegerlarge {
     
 public static void main(String args[])

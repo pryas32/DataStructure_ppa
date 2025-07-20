@@ -2,21 +2,33 @@
 
 int main(void) {
 
+//special series
 
-int x,n;
-scanf("%d%d",&x,&n);
-float summation=0.0;
+//1+11+111+1111+.........
+//for n=3 1+11+111
 
-int ans=1,den=1;
-for(int i=0;i<=n;i++)
+int sum=0;
+int n;
+scanf("%d",&n);
+
+int count=0;
+int i=1;
+while(i<=n)
 {
-	summation+=(ans/den);
-	ans=ans*x;
-	den=den*(i+1);
-	
+	sum=sum*10+1;
+	count+=sum;
+	i++;
 }
 
-printf("%f",summation);
 
-	return 0;
+
+
+printf("%d",count);
+
+
+
+
+
+
+
 }
