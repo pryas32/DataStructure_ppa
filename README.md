@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pryas32/DataStructure_ppa/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
 | [1833-find-the-highest-altitude](https://github.com/pryas32/DataStructure_ppa/tree/master/1833-find-the-highest-altitude) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pryas32/DataStructure_ppa/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
