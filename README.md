@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/pryas32/DataStructure_ppa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
+| [1284-four-divisors](https://github.com/pryas32/DataStructure_ppa/tree/master/1284-four-divisors) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pryas32/DataStructure_ppa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/pryas32/DataStructure_ppa/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
+| [1284-four-divisors](https://github.com/pryas32/DataStructure_ppa/tree/master/1284-four-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
