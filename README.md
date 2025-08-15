@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pryas32/DataStructure_ppa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/pryas32/DataStructure_ppa/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/pryas32/DataStructure_ppa/tree/master/2714-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/pryas32/DataStructure_ppa/tree/master/1284-four-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/pryas32/DataStructure_ppa/tree/master/2507-number-of-common-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,9 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/pryas32/DataStructure_ppa/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/pryas32/DataStructure_ppa/tree/master/2507-number-of-common-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pryas32/DataStructure_ppa/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/pryas32/DataStructure_ppa/tree/master/2507-number-of-common-factors) |
+## Hash Table
+|  |
+| ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
