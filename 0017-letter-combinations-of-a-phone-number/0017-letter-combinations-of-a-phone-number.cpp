@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<string> vtr; 
+    vector<string>vtr; 
     vector<string> letterCombinations(string digits) {
         if (digits.empty()) return vtr;
 
@@ -14,21 +14,28 @@ public:
         digitsum[8] = "tuv";
         digitsum[9] = "wxyz";
 
-        string str;
+      
         int i = 0;
-        recursive(str, digitsum, digits, i);  
+       
+      int len=digits.size();
+
+      vector<char>str(len);
+       
+         recursive(str, digitsum, digits, i);  
         return vtr;
     }
-
-    void recursive(string str, vector<string> &digitsum, string &digits, int i1) {
+//now using same character array how we will proceed
+    void recursive(vector<char> str, vector<string> &digitsum, string &digits, int i1) {
         if (i1 == digits.size()) {  
-            vtr.push_back(str);
+         vtr.push_back(string(str.begin(), str.end()));
+
             return;
         }
 
         string letters = digitsum[digits[i1] - '0'];
         for (int j = 0; j < letters.size(); j++) {
-            recursive(str + letters[j], digitsum, digits, i1 + 1);
+            str[i1]=letters[j];
+            recursive(str ,digitsum, digits, i1 + 1);
         }
     }
 };
