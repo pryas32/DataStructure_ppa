@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pryas32/DataStructure_ppa/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pryas32/DataStructure_ppa/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/pryas32/DataStructure_ppa/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/pryas32/DataStructure_ppa/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
@@ -116,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pryas32/DataStructure_ppa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/pryas32/DataStructure_ppa/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pryas32/DataStructure_ppa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
