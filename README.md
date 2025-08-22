@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pryas32/DataStructure_ppa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pryas32/DataStructure_ppa/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/pryas32/DataStructure_ppa/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/pryas32/DataStructure_ppa/tree/master/0118-pascals-triangle) |
@@ -114,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pryas32/DataStructure_ppa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/pryas32/DataStructure_ppa/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pryas32/DataStructure_ppa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/pryas32/DataStructure_ppa/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/pryas32/DataStructure_ppa/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
