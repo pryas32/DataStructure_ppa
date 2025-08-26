@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pryas32/DataStructure_ppa/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pryas32/DataStructure_ppa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
 | [1284-four-divisors](https://github.com/pryas32/DataStructure_ppa/tree/master/1284-four-divisors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/pryas32/DataStructure_ppa/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/pryas32/DataStructure_ppa/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
