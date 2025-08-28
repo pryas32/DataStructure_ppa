@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
+| [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1284-four-divisors](https://github.com/pryas32/DataStructure_ppa/tree/master/1284-four-divisors) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pryas32/DataStructure_ppa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/pryas32/DataStructure_ppa/tree/master/0164-maximum-gap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
+| [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pryas32/DataStructure_ppa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pryas32/DataStructure_ppa/tree/master/0204-count-primes) |
+| [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1284-four-divisors](https://github.com/pryas32/DataStructure_ppa/tree/master/1284-four-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/pryas32/DataStructure_ppa/tree/master/2507-number-of-common-factors) |
@@ -155,9 +158,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pryas32/DataStructure_ppa/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
