@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/pryas32/DataStructure_ppa/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pryas32/DataStructure_ppa/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pryas32/DataStructure_ppa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pryas32/DataStructure_ppa/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
