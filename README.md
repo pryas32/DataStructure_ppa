@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pryas32/DataStructure_ppa/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/pryas32/DataStructure_ppa/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/pryas32/DataStructure_ppa/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pryas32/DataStructure_ppa/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pryas32/DataStructure_ppa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pryas32/DataStructure_ppa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/1019-squares-of-a-sorted-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pryas32/DataStructure_ppa/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/pryas32/DataStructure_ppa/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/pryas32/DataStructure_ppa/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
