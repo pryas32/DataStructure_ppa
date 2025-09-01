@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/pryas32/DataStructure_ppa/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pryas32/DataStructure_ppa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pryas32/DataStructure_ppa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/pryas32/DataStructure_ppa/tree/master/0164-maximum-gap) |
+| [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/1019-squares-of-a-sorted-array) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pryas32/DataStructure_ppa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/pryas32/DataStructure_ppa/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pryas32/DataStructure_ppa/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pryas32/DataStructure_ppa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Bucket Sort
 |  |
