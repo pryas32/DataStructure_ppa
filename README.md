@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pryas32/DataStructure_ppa/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pryas32/DataStructure_ppa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pryas32/DataStructure_ppa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pryas32/DataStructure_ppa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pryas32/DataStructure_ppa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pryas32/DataStructure_ppa/tree/master/0022-generate-parentheses) |
 ## Backtracking
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pryas32/DataStructure_ppa/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
