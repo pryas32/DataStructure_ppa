@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pryas32/DataStructure_ppa/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/pryas32/DataStructure_ppa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pryas32/DataStructure_ppa/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/pryas32/DataStructure_ppa/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
