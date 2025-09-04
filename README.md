@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pryas32/DataStructure_ppa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pryas32/DataStructure_ppa/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/pryas32/DataStructure_ppa/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0264-ugly-number-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1284-four-divisors](https://github.com/pryas32/DataStructure_ppa/tree/master/1284-four-divisors) |
@@ -183,10 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pryas32/DataStructure_ppa/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/pryas32/DataStructure_ppa/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pryas32/DataStructure_ppa/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/pryas32/DataStructure_ppa/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
