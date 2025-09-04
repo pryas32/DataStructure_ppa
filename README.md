@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/pryas32/DataStructure_ppa/tree/master/2714-left-and-right-sum-differences) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pryas32/DataStructure_ppa/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pryas32/DataStructure_ppa/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/pryas32/DataStructure_ppa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pryas32/DataStructure_ppa/tree/master/0231-power-of-two) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pryas32/DataStructure_ppa/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
 |  |
 | ------- |
