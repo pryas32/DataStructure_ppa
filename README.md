@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pryas32/DataStructure_ppa/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/pryas32/DataStructure_ppa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pryas32/DataStructure_ppa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/pryas32/DataStructure_ppa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pryas32/DataStructure_ppa/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/pryas32/DataStructure_ppa/tree/master/0260-single-number-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/pryas32/DataStructure_ppa/tree/master/1435-xor-queries-of-a-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pryas32/DataStructure_ppa/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
