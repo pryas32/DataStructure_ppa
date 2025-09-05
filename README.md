@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/1019-squares-of-a-sorted-array) |
 | [1284-four-divisors](https://github.com/pryas32/DataStructure_ppa/tree/master/1284-four-divisors) |
+| [1435-xor-queries-of-a-subarray](https://github.com/pryas32/DataStructure_ppa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pryas32/DataStructure_ppa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/pryas32/DataStructure_ppa/tree/master/1833-find-the-highest-altitude) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/pryas32/DataStructure_ppa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
+| [1435-xor-queries-of-a-subarray](https://github.com/pryas32/DataStructure_ppa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1833-find-the-highest-altitude](https://github.com/pryas32/DataStructure_ppa/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/pryas32/DataStructure_ppa/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/pryas32/DataStructure_ppa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pryas32/DataStructure_ppa/tree/master/0231-power-of-two) |
+| [1435-xor-queries-of-a-subarray](https://github.com/pryas32/DataStructure_ppa/tree/master/1435-xor-queries-of-a-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/pryas32/DataStructure_ppa/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
 |  |
