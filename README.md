@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/pryas32/DataStructure_ppa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pryas32/DataStructure_ppa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1539-diagonal-traverse-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/1539-diagonal-traverse-ii) |
 | [1833-find-the-highest-altitude](https://github.com/pryas32/DataStructure_ppa/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/pryas32/DataStructure_ppa/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/1019-squares-of-a-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1539-diagonal-traverse-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/1539-diagonal-traverse-ii) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0264-ugly-number-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pryas32/DataStructure_ppa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1539-diagonal-traverse-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/1539-diagonal-traverse-ii) |
 ## Interactive
 |  |
 | ------- |
