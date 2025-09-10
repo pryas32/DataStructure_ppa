@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pryas32/DataStructure_ppa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pryas32/DataStructure_ppa/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/pryas32/DataStructure_ppa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pryas32/DataStructure_ppa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/pryas32/DataStructure_ppa/tree/master/0162-find-peak-element) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pryas32/DataStructure_ppa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pryas32/DataStructure_ppa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/pryas32/DataStructure_ppa/tree/master/0128-longest-consecutive-sequence) |
 | [0264-ugly-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/pryas32/DataStructure_ppa/tree/master/0560-subarray-sum-equals-k) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/pryas32/DataStructure_ppa/tree/master/0498-diagonal-traverse) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pryas32/DataStructure_ppa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
