@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pryas32/DataStructure_ppa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
+| [0943-sum-of-subarray-minimums](https://github.com/pryas32/DataStructure_ppa/tree/master/0943-sum-of-subarray-minimums) |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/1019-squares-of-a-sorted-array) |
 | [1284-four-divisors](https://github.com/pryas32/DataStructure_ppa/tree/master/1284-four-divisors) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/pryas32/DataStructure_ppa/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/pryas32/DataStructure_ppa/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0264-ugly-number-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/pryas32/DataStructure_ppa/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
@@ -87,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pryas32/DataStructure_ppa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/pryas32/DataStructure_ppa/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
+| [0943-sum-of-subarray-minimums](https://github.com/pryas32/DataStructure_ppa/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pryas32/DataStructure_ppa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pryas32/DataStructure_ppa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
+| [0943-sum-of-subarray-minimums](https://github.com/pryas32/DataStructure_ppa/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
