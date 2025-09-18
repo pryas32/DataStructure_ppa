@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pryas32/DataStructure_ppa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
+| [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
 | [0943-sum-of-subarray-minimums](https://github.com/pryas32/DataStructure_ppa/tree/master/0943-sum-of-subarray-minimums) |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/1019-squares-of-a-sorted-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/pryas32/DataStructure_ppa/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pryas32/DataStructure_ppa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
 ## Number Theory
 |  |
 | ------- |
@@ -262,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pryas32/DataStructure_ppa/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
