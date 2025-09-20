@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pryas32/DataStructure_ppa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pryas32/DataStructure_ppa/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
+| [0859-design-circular-deque](https://github.com/pryas32/DataStructure_ppa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
 | [0943-sum-of-subarray-minimums](https://github.com/pryas32/DataStructure_ppa/tree/master/0943-sum-of-subarray-minimums) |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/pryas32/DataStructure_ppa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pryas32/DataStructure_ppa/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pryas32/DataStructure_ppa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0859-design-circular-deque](https://github.com/pryas32/DataStructure_ppa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
 ## Number Theory
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/pryas32/DataStructure_ppa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/pryas32/DataStructure_ppa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pryas32/DataStructure_ppa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/pryas32/DataStructure_ppa/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/pryas32/DataStructure_ppa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
 ## Monotonic Queue
 |  |
