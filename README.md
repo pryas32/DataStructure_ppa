@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/pryas32/DataStructure_ppa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
+| [1765-merge-in-between-linked-lists](https://github.com/pryas32/DataStructure_ppa/tree/master/1765-merge-in-between-linked-lists) |
 ## Queue
 |  |
 | ------- |
