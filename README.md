@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/1019-squares-of-a-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pryas32/DataStructure_ppa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pryas32/DataStructure_ppa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pryas32/DataStructure_ppa/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/pryas32/DataStructure_ppa/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pryas32/DataStructure_ppa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pryas32/DataStructure_ppa/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/pryas32/DataStructure_ppa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
 | [1765-merge-in-between-linked-lists](https://github.com/pryas32/DataStructure_ppa/tree/master/1765-merge-in-between-linked-lists) |
