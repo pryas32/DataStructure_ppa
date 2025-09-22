@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pryas32/DataStructure_ppa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pryas32/DataStructure_ppa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pryas32/DataStructure_ppa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pryas32/DataStructure_ppa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0234-palindrome-linked-list) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pryas32/DataStructure_ppa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/pryas32/DataStructure_ppa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pryas32/DataStructure_ppa/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0142-linked-list-cycle-ii) |
 | [0264-ugly-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/pryas32/DataStructure_ppa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/pryas32/DataStructure_ppa/tree/master/0560-subarray-sum-equals-k) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/pryas32/DataStructure_ppa/tree/master/0859-design-circular-deque) |
