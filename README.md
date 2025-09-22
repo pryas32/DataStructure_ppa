@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pryas32/DataStructure_ppa/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pryas32/DataStructure_ppa/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/pryas32/DataStructure_ppa/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/pryas32/DataStructure_ppa/tree/master/0860-design-circular-queue) |
 | [1765-merge-in-between-linked-lists](https://github.com/pryas32/DataStructure_ppa/tree/master/1765-merge-in-between-linked-lists) |
