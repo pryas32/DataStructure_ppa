@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pryas32/DataStructure_ppa/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/pryas32/DataStructure_ppa/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0264-ugly-number-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pryas32/DataStructure_ppa/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/pryas32/DataStructure_ppa/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/pryas32/DataStructure_ppa/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pryas32/DataStructure_ppa/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/pryas32/DataStructure_ppa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pryas32/DataStructure_ppa/tree/master/0234-palindrome-linked-list) |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pryas32/DataStructure_ppa/tree/master/0239-sliding-window-maximum) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pryas32/DataStructure_ppa/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
